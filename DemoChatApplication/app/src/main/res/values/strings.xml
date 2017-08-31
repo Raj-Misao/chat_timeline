@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DemoChatApplication</string>
+    <string name="type_a_message">Type message here</string>
+    <string name="logo">Misao India Pvt. Ltd</string>
+</resources>

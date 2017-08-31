@@ -1,0 +1,9 @@
+Demo chat application configure file 
+
+first we do some changes in java file
+
+1. Go to Connection.java file and change the ip address.
+2. Go to ImageUrl.java file and change the ip address.
+
+now change your php file server information
+ Go to connection.php file and write your server information like servername, username, password, database name
